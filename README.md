@@ -3,6 +3,9 @@
 Bot ini dirancang khusus untuk layanan **Joki Game** dan **Manajemen Grup** profesional. Dibuat dengan dedikasi penuh untuk membantu operasional **ANTC STORE** agar dapat melayani pelanggan 24/7 secara otomatis, aman, dan terpercaya.
 
 ---
+<p align="center">
+  <img src="ANTC BOT_20260114_013113_0000.png" width="100%">
+</p>
 
 ## 🇮🇩 INDONESIA (PANDUAN LENGKAP)
 
