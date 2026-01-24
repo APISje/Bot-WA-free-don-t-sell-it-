@@ -1,4 +1,5 @@
 # 🤖 WhatsApp Bot ANTC STORE - Professional Service & Management
+https://api.netlify.com/api/v1/badges/d3cfab82-510b-4de7-b910-4985b6536ea6/deploy-status
 
 Bot ini dirancang khusus untuk layanan **Joki Game** dan **Manajemen Grup** profesional. Dibuat dengan dedikasi penuh untuk membantu operasional **ANTC STORE** agar dapat melayani pelanggan 24/7 secara otomatis, aman, dan terpercaya.
 
